@@ -31,7 +31,7 @@ Ensure you have **Docker** installed on your system.
 
 2. Build the Docker images:
    ```bash
-   chmod +x setup.sh
+   chmod +x tor-attacktools.sh
    ./setup.sh
    ```
    This script will:
