@@ -32,7 +32,7 @@ Ensure you have **Docker** installed on your system.
 2. Build the Docker images:
    ```bash
    chmod +x tor-attacktools.sh
-   ./setup.sh
+   ./tor-attacktools.sh
    ```
    This script will:
    - Build the Tor and AttackTools images.
