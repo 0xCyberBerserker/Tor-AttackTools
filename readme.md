@@ -1,5 +1,7 @@
 # AttackTools & Tor Proxy
 
+A Dockerized penetration testing environment with Kali Linux, ProxyChains, and Tor. Includes tools like Nmap, Metasploit, Nikto, and FFUF to perform anonymous network reconnaissance and scanning through the Tor network. 🚀
+
 ## Overview
 This project consists of two Docker containers:
 1. **Tor Container**: Runs a Tor proxy to route traffic through the Tor network.
