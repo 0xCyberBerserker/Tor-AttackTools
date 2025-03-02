@@ -25,8 +25,8 @@ Ensure you have **Docker** installed on your system.
 ### Build and Run Containers
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/0xCyberBerserker/Tor-AttackTools.git
+   cd Tor-AttackTools
    ```
 
 2. Build the Docker images:
